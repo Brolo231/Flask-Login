@@ -12,11 +12,15 @@ Once the file structure has been set up and each file contains it's appropriate 
 By default our web application will be run on the local server which we can paste into our browser and load the web application. Notice in the URL bar that we are running on the local host. 
 
 ![ALT text](images/HomeLogin_page.png)
+
 ![ALT text](images/Register_page.png)
+
 ![ALT text](images/Welcome_page.png)
 
 The following demonstrates how error messages and form requirements make the web application user friendly and easy to understand 
 
 ![ALT text](images/fill_out.png)
+
 ![ALT text](images/Invalid_login.png)
+
 ![ALT text](images/User_exists_already.png)
