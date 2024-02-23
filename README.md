@@ -17,6 +17,6 @@ By default our web application will be run on the local server which we can past
 
 The following demonstrates how error messages and form requirements make the web application user friendly and easy to understand 
 
-![ALT text](images/Fill_out.png)
+![ALT text](images/fill_out.png)
 ![ALT text](images/Invalid_login.png)
-![ALT text](images/User_exist_already.png)
+![ALT text](images/User_exists_already.png)
